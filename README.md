@@ -94,6 +94,13 @@ Voici quelques-unes des technologies et des outils avec lesquels j'aime travaill
 </p>
 
 ---
+## 🎓 Mes Certifications & Projets
+
+J'ai centralisé mes certifications et mes projets les plus significatifs sur mon portfolio. N'hésitez pas à le parcourir pour découvrir mon parcours et mes compétences validées.
+
+🔗 **[Découvrir mes Certifications](https://portfolio-certification.vercel.app/)**
+
+---
 
 ## 📞 Connectez-vous avec moi
 
