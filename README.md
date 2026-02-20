@@ -68,9 +68,6 @@ Voici quelques-unes des technologies et des outils avec lesquels j'aime travaill
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind" />
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   </a>
