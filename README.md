@@ -125,7 +125,4 @@ N'hésitez pas à me contacter si vous avez des questions, des opportunités, ou
   <a href="https://wa.me/22891424991?text=Bonjour%20Maxime%2C%20j%27ai%20vu%20votre%20profil%20GitHub.">
   <img src="https://img.shields.io/badge/WhatsApp-Me_contacter-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
-  <a href="https://linkedin.com/in/maxime-athon" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxime-athon" height="30" width="40" />
-  </a>
 </p>
