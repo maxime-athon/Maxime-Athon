@@ -7,7 +7,7 @@
 
 ## 🎯 Mon objectif
 
-Actuellement, je poursuis un objectif simple et ambitieux : **acquérir un maximum de compétences utiles pour devenir un développeur accompli**, en particulier dans le **développement web et mobile**. Fort de deux années de tronc commun en cybersécurité et développement logiciel, mon parcours m'a permis d'explorer de nombreux domaines techniques et de développer une soif constante d'apprendre.
+Actuellement, je poursuis un objectif simple et ambitieux : **acquérir un maximum de compétences utiles pour devenir un développeur accompli**, en particulier dans le **développement web et mobile**.
 
 ---
 
@@ -16,7 +16,6 @@ Actuellement, je poursuis un objectif simple et ambitieux : **acquérir un maxim
 Ma curiosité me pousse à toucher à diverses facettes du génie logiciel. Voici quelques-uns des domaines qui me passionnent :
 
 -   **Développement Web & Mobile** 📱: Créer des expériences utilisateur fluides et intuitives.
--   **Virtualisation (Proxmox) & Cloud Computing** ☁️: Construire des infrastructures flexibles et évolutives.
 -   **UX/UI Design & Ergonomie** ✨: Concevoir des interfaces belles et fonctionnelles.
 -   **Bases de la Cybersécurité & Sécurité des Systèmes** 🔒: Protéger les applications et les infrastructures.
 
@@ -106,6 +105,13 @@ Voici quelques-unes des technologies et des outils avec lesquels j'aime travaill
 J'ai centralisé mes certifications et mes projets les plus significatifs sur mon portfolio. N'hésitez pas à le parcourir pour découvrir mon parcours et mes compétences validées.
 
 🔗 **[Découvrir mes Certifications](https://portfolio-certification.vercel.app/)**
+
+---
+## 📄 Mon CV
+
+<a href="https://github.com/maxime-athon/maxime-athon/raw/main/CV_Maxime_ATHON.pdf">
+  <img src="https://img.shields.io/badge/⬇️_Télécharger_mon_CV_(PDF)-1E90FF?style=for-the-badge" alt="Télécharger mon CV" />
+</a>
 
 ---
 
